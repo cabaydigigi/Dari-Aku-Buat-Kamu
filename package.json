@@ -1,0 +1,15 @@
+{
+  "nama": "Dari Aku Buat Kamu",
+  "version": "7.39.1"
+  "description": "Dari Aku Buat Kamu fist web"
+  "main": "index js"
+  "scripts": (
+  "start": "mode index",
+    "test": "echo \"\" && exit 1"
+  ),
+  "author": "Dari Aku Buat Kamu"
+  "license": "HIT"
+  "dependencies": (
+    "express": "^4.17.1"
+}
+)
